@@ -11,10 +11,10 @@ require (
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/influxdata/influxdb v1.7.7
-	github.com/json-iterator/go v1.1.7
+	github.com/json-iterator/go v1.1.11
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/nytlabs/gojsonexplode v0.0.0-20160201065013-0f3fe6bb573f
-	github.com/prometheus/client_golang v1.1.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/rockset/rockset-go-client v0.6.0
 	github.com/sethgrid/pester v0.0.0-20190127155807-68a33a018ad0
 	github.com/spf13/viper v1.4.0
